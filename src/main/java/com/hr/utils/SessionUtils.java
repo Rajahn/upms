@@ -1,0 +1,4 @@
+package com.hr.utils;
+
+public class SessionUtils {
+}
